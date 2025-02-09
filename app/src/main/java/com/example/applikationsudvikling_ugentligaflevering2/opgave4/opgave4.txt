@@ -1,0 +1,3 @@
+Der var mange flere kommentarer i junior dev ChatGPT, men Senior dev
+var bedre til at navngive functions, variables og classes, men Junior var generelt mere detaljeret i dens kode.
+junior og senior fuglte stadig nogenlunde samme struktur, men overall så vil jeg foretrukke juniors svar pga kommentarerne. Selve strukturen i koden så lidt mere smooth ud.
