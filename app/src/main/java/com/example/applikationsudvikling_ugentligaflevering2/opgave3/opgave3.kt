@@ -1,7 +1,7 @@
 package com.example.applikationsudvikling_ugentligaflevering2.opgave3
 
 fun main() {
-    val shoe = Shoe("Running shoe", 59.99, 15)
+    val shoe = Shoe("Running shoe", 55.50, 15)
     shoe.displayProductInfo()
     shoe.identifyProductCategory()
 
