@@ -7,7 +7,7 @@ open class Product(
 ) {
 
     open fun identifyProductCategory() {
-        println(":):):):):)")
+        println(":):)")
     }
 
     fun displayProductInfo() {

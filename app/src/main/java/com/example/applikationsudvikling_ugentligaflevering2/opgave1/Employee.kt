@@ -11,6 +11,7 @@ class Employee(
         }
     }
 
+
 private fun yearlySalary(): Double {
     return monthlySalary * 12
 }
